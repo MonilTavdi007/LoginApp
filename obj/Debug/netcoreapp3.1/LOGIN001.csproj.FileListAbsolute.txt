@@ -1,0 +1,16 @@
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\bin\Debug\netcoreapp3.1\LOGIN001.exe
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\bin\Debug\netcoreapp3.1\LOGIN001.deps.json
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\bin\Debug\netcoreapp3.1\LOGIN001.runtimeconfig.json
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\bin\Debug\netcoreapp3.1\LOGIN001.runtimeconfig.dev.json
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\bin\Debug\netcoreapp3.1\LOGIN001.dll
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\bin\Debug\netcoreapp3.1\LOGIN001.pdb
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.csproj.AssemblyReference.cache
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.Form1.resources
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.csproj.GenerateResource.cache
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.AssemblyInfoInputs.cache
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.AssemblyInfo.cs
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.csproj.CoreCompileInputs.cache
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.dll
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.pdb
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.genruntimeconfig.cache
+C:\Users\BLUEDEVIL\source\repos\LOGIN001\obj\Debug\netcoreapp3.1\LOGIN001.Properties.Resources.resources
