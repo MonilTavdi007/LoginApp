@@ -62,7 +62,7 @@ namespace LOGIN001
 
             } else if (txtpassword.Text.TrimStart() == string.Empty)
             {
-                MessageBox.Show("Enter valid Password please", "Error");
+                MessageBox.Show("Please enter the correct credentials", "Error");
                 return false;
             }
             return true;
