@@ -18,6 +18,7 @@ namespace LOGIN001
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //THIS IS JUST A COMMENT AS A CHANGE TO VERIFY SYNCRONIZATION OR LOCAL REPO FROM REMOTE REPO
         }
     }
 }
